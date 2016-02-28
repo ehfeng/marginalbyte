@@ -1,0 +1,19 @@
+PATH
+  remote: ~/Code/rubberband-jekyll
+  specs:
+    rubberband (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kramdown (1.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kramdown
+  rubberband!
+
+BUNDLED WITH
+   1.11.2
