@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Tilting of Startup Economics
+title: The Balance of Startup Economics
 ---
 
 tl;dr *low marginal costs of production favor large companies. low distribution costs favors startups. As costs of distribution rise, the balance tilts again startups.*
