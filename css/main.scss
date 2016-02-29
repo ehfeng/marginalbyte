@@ -52,10 +52,10 @@ $on-laptop:        800px;
 //         "syntax-highlighting"
 // ;
 .wrapper {
-	padding: 40px
+	padding: 40px;
+	max-width: 500px;
 }
 .post-content {
-	max-width: 500px;
 	font-size: 14px;
 }
 
