@@ -51,6 +51,13 @@ $on-laptop:        800px;
 //         "layout",
 //         "syntax-highlighting"
 // ;
+.wrapper {
+	padding: 40px
+}
+.post-content {
+	max-width: 500px;
+	font-size: 14px;
+}
 
 .controls {
 	text-align: center;

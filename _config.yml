@@ -12,13 +12,12 @@ description: > # this means to ignore newlines until "baseurl:"
   Better, one byte at a time.
 twitter_username: ehfeng
 github_username: ehfeng
-rubberband_server: http://localhost:1845
 exclude:
 - Gemfile
 - Gemfile.lock
 
-# rubberband:
-#   site: marginalbyte
+sass:
+  sass_dir: _sass
 
 # Build settings
 markdown: kramdown
