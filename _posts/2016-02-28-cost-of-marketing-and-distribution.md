@@ -1,13 +1,10 @@
 ---
 layout: post
 title: The Balance of Startup Economics
+category: thoughts
 ---
 
-tl;dr *low marginal costs of production favor large companies. low distribution costs favors startups. As costs of distribution rise, the balance tilts again startups.*
-
-A tech startup is a company designed to become a monopoly.[^1]
-
-In software, there are two outcomes: be a standard or be a commodity. This is because in software, marginal cost of bits goes *immediately* to zero. In a competitive environment, prices and profits are near zero.
+A tech startup is a company designed to become a monopoly.[^1] In tech, there are two outcomes: be a standard or be a commodity. This is because in software, marginal cost of bits goes *immediately* to zero. In a competitive environment, prices and profits are near zero.
 
 However, once you've become a standard, you can charge whatever the customer is willing (and able) to pay. Just ask Microsoft, Adobe, Autodesk, Intuit, or Salesforce. Once you're a standard, you've built something that requires years of marketing, distribution, and sales to duplicate.
 
